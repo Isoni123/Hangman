@@ -1,0 +1,12 @@
+d:\dev\projects\hangman\Hangman.Tests\obj\Debug\Hangman.Tests.csprojAssemblyReference.cache
+d:\dev\projects\hangman\Hangman.Tests\obj\Debug\Hangman.Tests.csproj.CoreCompileInputs.cache
+d:\dev\projects\hangman\Hangman.Tests\bin\Debug\Hangman.Tests.dll
+d:\dev\projects\hangman\Hangman.Tests\bin\Debug\Hangman.Tests.pdb
+d:\dev\projects\hangman\Hangman.Tests\bin\Debug\Hangman.Core.dll
+d:\dev\projects\hangman\Hangman.Tests\bin\Debug\nunit.framework.dll
+d:\dev\projects\hangman\Hangman.Tests\bin\Debug\Hangman.Core.pdb
+d:\dev\projects\hangman\Hangman.Tests\bin\Debug\nunit.framework.pdb
+d:\dev\projects\hangman\Hangman.Tests\bin\Debug\nunit.framework.xml
+d:\dev\projects\hangman\Hangman.Tests\obj\Debug\Hangman.Tests.csproj.CopyComplete
+d:\dev\projects\hangman\Hangman.Tests\obj\Debug\Hangman.Tests.dll
+d:\dev\projects\hangman\Hangman.Tests\obj\Debug\Hangman.Tests.pdb

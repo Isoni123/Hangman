@@ -1,0 +1,10 @@
+d:\dev\projects\hangman\Hangman.App\bin\Debug\Hangman.App.exe.config
+d:\dev\projects\hangman\Hangman.App\bin\Debug\Hangman.App.exe
+d:\dev\projects\hangman\Hangman.App\bin\Debug\Hangman.App.pdb
+d:\dev\projects\hangman\Hangman.App\bin\Debug\Hangman.Core.dll
+d:\dev\projects\hangman\Hangman.App\bin\Debug\Hangman.Core.pdb
+d:\dev\projects\hangman\Hangman.App\obj\Debug\Hangman.App.csprojAssemblyReference.cache
+d:\dev\projects\hangman\Hangman.App\obj\Debug\Hangman.App.csproj.CoreCompileInputs.cache
+d:\dev\projects\hangman\Hangman.App\obj\Debug\Hangman.App.csproj.CopyComplete
+d:\dev\projects\hangman\Hangman.App\obj\Debug\Hangman.App.exe
+d:\dev\projects\hangman\Hangman.App\obj\Debug\Hangman.App.pdb
