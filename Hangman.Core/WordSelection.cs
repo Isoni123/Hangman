@@ -15,14 +15,9 @@ namespace Hangman.Core
             return aWord;
         }
 
-        public void ValidateChar()
+        public string Fetch(string aWord)
         {
-
+            return aWord;
         }
-
-
-
-
-
     }
 }

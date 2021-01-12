@@ -50,6 +50,7 @@
     <Compile Include="HangmanControllerTests.cs" />
     <Compile Include="HangmanModelTests.cs" />
     <Compile Include="HangmanViewTests.cs" />
+    <Compile Include="TestConsole.cs" />
     <Compile Include="WordSelectionTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

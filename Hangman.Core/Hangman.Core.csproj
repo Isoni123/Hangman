@@ -41,9 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HangmanContoller.cs" />
+    <Compile Include="HangmanController.cs" />
     <Compile Include="HangmanModel.cs" />
     <Compile Include="HangmanView.cs" />
+    <Compile Include="IConsole.cs" />
     <Compile Include="WordSelection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,13 +1,40 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=00076d86_002Da40d_002D456d_002D9468_002D0c29598fd536/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1a39dc87_002Dda11_002D4860_002Db3ef_002D7f66c95ce5aa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1fee6a34_002D9ef2_002D4a2d_002D979b_002Ddabcbce63367/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=218be0e5_002D7300_002D44ec_002D8002_002Dfa00e0afc2db/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="WordSelectionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Test.WordSelectionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=26a5c334_002D789b_002D4802_002Da67e_002D953ad6430c5b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GIVEN_an_array_of_words_WHEN_game_starts_THEN_select_a_random_word_from_string_array_and_check_its_random" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=228eeba3_002Dc10e_002D4edd_002D85df_002Db02ddf6a111d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GIVEN_a_new_game_WHEN_started_THEN_show_masked_word_AND_number_of_Lives" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanViewTests.GIVEN_a_new_game_WHEN_started_THEN_show_masked_word_AND_number_of_Lives&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=26a5c334_002D789b_002D4802_002Da67e_002D953ad6430c5b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GIVEN_an_array_of_words_WHEN_game_starts_THEN_select_a_random_word_from_string_array_and_check_its_random" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Test.WordSelectionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanViewTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanControllerTests.GIVEN_a_letter_is_not_in_a_word_WHEN_user_inputs_that_letter_reduce_number_of_lives&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2a8ea07a_002D3bb1_002D4536_002D8510_002D7a128d8ee03c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GIVEN_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_all_the_instances_in_the_word #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.GIVEN_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_all_the_instances_in_the_word&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d500a43_002De191_002D4b22_002Db1dd_002Da7530273c68f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GIVEN_an_array_of_words_WHEN_game_starts_THEN_select_a_random_word_from_string_array #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
@@ -20,6 +47,21 @@
     &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Test.WordSelectionTests.GIVEN_an_array_of_words_WHEN_game_starts_THEN_select_a_random_word_from_string_array&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4da7204c_002Dca5e_002D4af8_002D8ad8_002Dc01e9e69e060/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GIVEN_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_all_the_instances_in_the_word #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.GIVEN_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_all_the_instances_in_the_word&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=54ac670e_002D16cc_002D478e_002Daa50_002D9ddfe33fb711/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=687d9bbb_002Da999_002D4e5e_002Dab1e_002D89873c6bc142/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string #13" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7cac7bc5_002D5fae_002D4ddf_002D9e80_002D1465cbbf227c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GIVEN_an_array_of_words_WHEN_game_starts_THEN_select_a_random_word_from_string_array" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Test.WordSelectionTests.GIVEN_an_array_of_words_WHEN_game_starts_THEN_select_a_random_word_from_string_array&lt;/TestId&gt;&#xD;
@@ -30,9 +72,59 @@
     &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Test.WordSelectionTests.GIVEN_an_array_of_words_WHEN_game_starts_THEN_select_a_random_word_from_string_array&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=86b6dc90_002D9566_002D48a5_002Db427_002D24c473b941a9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=99207cc2_002D2097_002D421b_002Da0d8_002Dd4e012e107c6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9f44f291_002D83ea_002D4c5c_002Dacd6_002D8eba956a61bb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string #10" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a3ef3ef6_002D206c_002D4b77_002Dad2b_002D3a8acfaa0501/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c2f3a6dd_002D6f98_002D4952_002D9a8d_002D861dd3e86a85/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string #14" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c38a6459_002Dfb85_002D4066_002Da784_002D38a7c0ead5c9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c4da647f_002Db4c1_002D40dd_002Da8bb_002Dd97abb0cb8f0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GIVEN_a_new_game_WHEN_started_THEN_show_masked_word_AND_number_of_Lives #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanViewTests.GIVEN_a_new_game_WHEN_started_THEN_show_masked_word_AND_number_of_Lives&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c7d13257_002Df4bd_002D4d0c_002Da5f7_002D3a099f14935e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GIVEN_an_array_of_words_WHEN_game_starts_THEN_select_a_random_word_from_string_array #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Test.WordSelectionTests.GIVEN_an_array_of_words_WHEN_game_starts_THEN_select_a_random_word_from_string_array&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e302ea09_002D38a2_002D4a59_002D86b4_002D451e7347ce71/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string #11" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f085a030_002D542e_002D42d5_002Db4a3_002D391eacd42611/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string #9" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f0d1586c_002Df395_002D4be5_002D9584_002D4dd9156d1cbd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string #12" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f18625ef_002D6436_002D434e_002Da6a1_002D20e94f4f15f0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="WordSelectionTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
@@ -40,8 +132,16 @@
     &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Test.WordSelectionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fa49dbda_002Dac81_002D4d42_002Dbaa8_002D2f74f355b683/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="WordSelectionTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f8b020c7_002D772b_002D4182_002Da376_002De6bee2202483/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GIVEN_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_all_the_instances_in_the_word" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fa49dbda_002Dac81_002D4d42_002Dbaa8_002D2f74f355b683/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WordSelectionTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Test.WordSelectionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanViewTests.GIVEN_a_masked_word_WHEN_it_is_displayed_ask_user_to_enter_a_letter_AND_wait_for_the_user&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_correctly_guessed_letter_WHEN_it_is_unmasked_reveal_it_in_the_string&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanModelTests.Given_a_Letter_is_entered_WHEN_it_matches_all_letter_in_the_word_and_masked_hangmanWord&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanViewTests.GIVEN_a_new_game_WHEN_started_THEN_show_masked_word_AND_number_of_Lives&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7CF93F9C-A9ED-488A-9AF5-E030CC944AC5::.NETFramework,Version=v4.7.2::Hangman.Tests.HangmanViewTests.GIVEN_a_new_game_WHEN_it_starts_THEN_show_welcome_AND_number_of_Lives&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
